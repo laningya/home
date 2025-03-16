@@ -8,5 +8,10 @@
     "icon": "Cloud",
     "name": "哪吒探针",
     "link": "https://dash.laning.org/"
+  },
+  {
+    "icon": "MailBulk",
+    "name": "WebMail",
+    "link": "https://webmail.laning.org/"
   }
 ]
