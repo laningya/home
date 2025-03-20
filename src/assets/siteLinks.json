@@ -10,10 +10,15 @@
     "link": "https://dash.laning.org/"
   },
   {
-    "icon": "Rss",
+    "icon": "Rss阅读",
     "name": "Rss",
     "link": "https://rss.laning.org/"
   },
+  {
+    "icon": "Images",
+    "name": "图床",
+    "link": "https://image.laning.org/"
+  }，
   {
     "icon": "MailBulk",
     "name": "WebMail",
