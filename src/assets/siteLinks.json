@@ -10,6 +10,11 @@
     "link": "https://dash.laning.org/"
   },
   {
+    "icon": "Rss",
+    "name": "Rss",
+    "link": "https://rss.laning.org/"
+  }
+  {
     "icon": "MailBulk",
     "name": "WebMail",
     "link": "https://webmail.laning.org/"
