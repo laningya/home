@@ -28,5 +28,10 @@
     "icon": "Cloud",
     "name": "Alist",
     "link": "https://alist.laning.org/"
-  }
+  },
+  {
+    "icon": "Gitlab",
+    "name": "Gitlab",
+    "link": "https://gitlab.laning.org/"
+  },
 ]
